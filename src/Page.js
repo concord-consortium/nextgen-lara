@@ -8,14 +8,14 @@ class Page extends Component {
         <div>
           <span>Page {parseInt(props.page, 10) + 1} Content</span>
           <ul>
-          { Object.keys(props.embeddables).map(function (e, index) {
+          { Object.keys(props.embeddables).map(function (index) {
             return (
               <li className="left" key={index}>  
                 <span className="padding">
-                      {props.embeddables[e].prompt} 
+                      {props.embeddables[index].prompt} 
                 </span>
                 <span className="padding">
-                      {props.embeddables[e].type} 
+                      {props.embeddables[index].type} 
                 </span>
               </li>
             ); 
