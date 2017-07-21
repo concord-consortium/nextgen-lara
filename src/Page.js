@@ -15,6 +15,14 @@ class Page extends Component {
             var embeddable = props.embeddables[index];
             var type = embeddable.type;
 
+            if(type == 'Embeddable::Xhtml') {
+                return (
+                    <li className="left padding" key={index}>  
+                      <EmbeddableXhtml content={embeddable.content} />
+                    </li>
+                );
+            }
+
             if(type == 'Embeddable::OpenResponse') {
                 return (
                     <li className="left padding" key={index}>  

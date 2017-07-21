@@ -3,7 +3,9 @@ import React, { Component } from 'react';
 class EmbeddableXhtml extends Component {
 
     render() {
-        return null;
+        return (
+          <div dangerouslySetInnerHTML={{__html: this.props.content}}></div>
+        );
     }
 
 }
