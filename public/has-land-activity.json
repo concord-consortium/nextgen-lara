@@ -1,1 +1,645 @@
-{"description":"\n\u003Cp\u003EIn this activity, you will explore data showing how humans have changed Earth\u2019s land. Suitable agricultural land is a limited resource, and its distribution is affected by many factors, including human development and the availability of other limited resources.\u003C/p\u003E\n\u003Cp\u003E\u003Ci\u003E\u003Cfont size=\"-2\"\u003EThumbnail credit: USDA, Economic Research Service\u003C/font\u003E\u003C/i\u003E\u003C/p\u003E\n","editor_mode":0,"external_report_url":"","layout":0,"name":"Using the land","notes":"Credit for thumbnail image: USDA, Economic Research Service","project_id":2,"related":"\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E","thumbnail_url":"http://resources.has.concord.org/resources/land/datafeature2_fig01_1_.gif","time_to_complete":45,"theme_name":"HAS National Geographic: Land Management","pages":[{"additional_sections":null,"embeddable_display_mode":"stacked","is_completion":false,"is_hidden":false,"layout":"r-4060","name":"Land use","position":1,"show_info_assessment":true,"show_interactive":true,"show_introduction":false,"show_sidebar":false,"sidebar":null,"sidebar_title":"Did you know?","text":null,"interactives":[{"caption":"","credit":"Ellis E et al. PNAS 2013; Used Planet, a Global History. Figure 1","credit_url":null,"is_hidden":false,"url":"http://resources.has.concord.org/resources/land/ellis_PNAS_fig_01_300_public.png","type":"ImageInteractive","ref_id":"2801-ImageInteractive"}],"embeddables":[{"content":"\u003Cp\u003ELand use refers to the ways that humans use the land. Land use involves modifying and managing the natural environment.\u003C/p\u003E\u003Cp\u003EThe modifications include fields, pastures, industrial developments, residential developments, golf courses, ski areas, parks, and roads.\u003C/p\u003E\u003Cp\u003ELand use management practices vary around the world. How the land is used can affect the quality and availability of natural resources, such as water, soil, nutrients, plants, and animals.\u0026nbsp;\u003C/p\u003E\u003Cp\u003EThe maps show how humans have changed the land over the past 8,000 years.\u0026nbsp;\u003C/p\u003E\u003Cp\u003EThe HYDE model assumes that land use is stable over time, while the KK10 model assumes that land use intensifies over time. Both models show the time of first significant use, the percent recovery from peak use, and the locations of dense settlements in the year 2000.\u003C/p\u003E","is_hidden":false,"name":"","type":"Embeddable::Xhtml"},{"custom":false,"enable_check_answer":false,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"layout":"vertical","multi_answer":false,"name":"Multiple Choice Question element","prediction_feedback":null,"prompt":"Which area of the world has been intensively used for the longest period of time?","show_as_menu":false,"choices":[{"choice":"North America","is_correct":false,"prompt":""},{"choice":"South America","is_correct":false,"prompt":""},{"choice":"Africa","is_correct":false,"prompt":""},{"choice":"Eurasia","is_correct":false,"prompt":""}],"type":"Embeddable::MultipleChoice"},{"default_text":null,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":null,"prompt":"Explain your answer.","type":"Embeddable::OpenResponse"}],"sections":[{"name":"arg_block","section_embeddables":[]}]},{"additional_sections":null,"embeddable_display_mode":"stacked","is_completion":false,"is_hidden":false,"layout":"r-4060","name":"For what do we use the land?","position":2,"show_info_assessment":true,"show_interactive":true,"show_introduction":false,"show_sidebar":false,"sidebar":null,"sidebar_title":"Did you know?","text":null,"interactives":[{"caption":"A Northern Virginia housing development encroaches on farmland. Population growth and relocation is threatening rural environments across the world.","credit":"Photograph by Sarah Leen/National Geographic","credit_url":null,"is_hidden":false,"url":"http://resources.has.concord.org/resources/land/house-development_194_600x450.jpg","type":"ImageInteractive","ref_id":"2802-ImageInteractive"}],"embeddables":[{"content":"\u003Cp\u003ELand is a finite resource on Earth. Around the world, people have tried to create more land by filling in shallow bodies of water, but in the end, there is only so much land.\u003C/p\u003E\u003Cp\u003EWhat is that land used for?\u003C/p\u003E\u003Cp\u003EThere are human uses \u2013 land for living on, land for producing food, land for recreation \u2013 and there are natural users as well. Residents of the natural ecosystems need land for their own life cycles.\u003C/p\u003E\u003Cp\u003EThe photograph shows a housing development encroaching on farmland. Increasingly, farmland has been converted into residential and commercial purposes.\u0026nbsp;\u003C/p\u003E","is_hidden":false,"name":"","type":"Embeddable::Xhtml"},{"default_text":null,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":null,"prompt":"Why do you think houses are being built on farmland?","type":"Embeddable::OpenResponse"}],"sections":[{"name":"arg_block","section_embeddables":[]}]},{"additional_sections":null,"embeddable_display_mode":"stacked","is_completion":false,"is_hidden":false,"layout":"r-4060","name":"Forested land","position":3,"show_info_assessment":true,"show_interactive":true,"show_introduction":false,"show_sidebar":false,"sidebar":null,"sidebar_title":"Did you know?","text":null,"interactives":[{"caption":"Nantahala National Forest, North Carolina","credit":"USDA Forest Service ","credit_url":null,"is_hidden":false,"url":"http://resources.has.concord.org/resources/land/stelprdb5284727.jpg","type":"ImageInteractive","ref_id":"2803-ImageInteractive"}],"embeddables":[{"content":"\u003Cp\u003ELand can be managed in several different ways. Humans modify the land for their own purposes, but it is also important to consider the non-human users of the land \u2013 native plants and animals.\u003C/p\u003E\u003Cp\u003EIn addition to providing recreation opportunities, forests and other open parcels of land provide valuable services, including cleaning the air, filtering and holding water, producing oxygen, and storing carbon dioxide.\u003C/p\u003E\u003Cp\u003EThe photo shows Nantahala National Forest in North Carolina.\u003C/p\u003E","is_hidden":false,"name":"","type":"Embeddable::Xhtml"},{"default_text":null,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":null,"prompt":"What are the consequences of turning forested land into farm land?\u003Cdiv\u003EList two positive and two negative effects of turning forest land into farm land.\u003C/div\u003E","type":"Embeddable::OpenResponse"},{"default_text":null,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":null,"prompt":"What are the consequences of turning forested land into residential land?\u003Cdiv\u003EList two positive and two negative effects of turning forest land into residential land.\u003Cbr\u003E\u003C/div\u003E","type":"Embeddable::OpenResponse"}],"sections":[{"name":"arg_block","section_embeddables":[]}]},{"additional_sections":null,"embeddable_display_mode":"stacked","is_completion":false,"is_hidden":false,"layout":"r-4060","name":"Land use changes in the US","position":4,"show_info_assessment":true,"show_interactive":true,"show_introduction":false,"show_sidebar":false,"sidebar":null,"sidebar_title":"Did you know?","text":null,"interactives":[{"caption":"Change in land use in the United States, 1949-2007","credit":"USDA, Economic Research Service","credit_url":null,"is_hidden":false,"url":"http://resources.has.concord.org/resources/land/datafeature2_fig01_1_.gif","type":"ImageInteractive","ref_id":"2804-ImageInteractive"}],"embeddables":[{"content":"\u003Cp\u003E\u003C/p\u003E\u003Cp\u003EThere are few habitats on Earth that have not been modified by humans. One very important land use is agriculture.\u0026nbsp;\u003C/p\u003E\u003Cp\u003EThe graph shows land uses in the United States from 1949 to 2007.\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E","is_hidden":false,"name":"","type":"Embeddable::Xhtml"},{"default_text":null,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":null,"prompt":"Describe the change in the amount of agricultural land in the United States from 1949 to 2007.","type":"Embeddable::OpenResponse"},{"default_text":null,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":null,"prompt":"Why do you think the land use changed this way?","type":"Embeddable::OpenResponse"}],"sections":[{"name":"arg_block","section_embeddables":[]}]},{"additional_sections":null,"embeddable_display_mode":"stacked","is_completion":false,"is_hidden":false,"layout":"r-4060","name":"Productive land","position":5,"show_info_assessment":true,"show_interactive":true,"show_introduction":false,"show_sidebar":false,"sidebar":null,"sidebar_title":"Did you know?","text":null,"interactives":[{"caption":"","credit":"Center for Sustainability and the Global Environment, University of Wisconsin, Madison","credit_url":null,"is_hidden":false,"url":"http://resources.has.concord.org/resources/land/atl_suit.jpg","type":"ImageInteractive","ref_id":"2805-ImageInteractive"}],"embeddables":[{"content":"\u003Cp\u003ESustainable agriculture needs:\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003E\u003C/p\u003E\u003Cul\u003E\u003Cli\u003Efertile soils\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003Eadequate precipitation\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003Egood growing temperatures\u003Cbr\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv\u003EThe map shows the suitability of areas around the world for sustainable agriculture.\u0026nbsp;\u003C/div\u003E","is_hidden":false,"name":"","type":"Embeddable::Xhtml"},{"custom":false,"enable_check_answer":false,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"layout":"vertical","multi_answer":false,"name":"Multiple Choice Question element","prediction_feedback":null,"prompt":"Is agricultural land evenly distributed around the world?","show_as_menu":false,"choices":[{"choice":"yes","is_correct":false,"prompt":""},{"choice":"no","is_correct":false,"prompt":""}],"type":"Embeddable::MultipleChoice"},{"default_text":null,"give_prediction_feedback":false,"hint":null,"is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":null,"prompt":"What areas of the world are most suitable for agriculture?","type":"Embeddable::OpenResponse"}],"sections":[{"name":"arg_block","section_embeddables":[]}]},{"additional_sections":null,"embeddable_display_mode":"stacked","is_completion":false,"is_hidden":false,"layout":"r-4060","name":"Farmland in the path of development","position":6,"show_info_assessment":true,"show_interactive":true,"show_introduction":false,"show_sidebar":false,"sidebar":null,"sidebar_title":"Did you know?","text":null,"interactives":[{"caption":"","credit":"American Farmland Trust","credit_url":null,"is_hidden":false,"url":"http://resources.has.concord.org/resources/land/map_national.gif","type":"ImageInteractive","ref_id":"2806-ImageInteractive"}],"embeddables":[{"content":"\u003Cp\u003EAll land is not equally useful for all purposes. It takes high quality soil conditions to make high quality farmland.\u0026nbsp;\u003C/p\u003E\u003Cp\u003ESome areas are too dry to farm without irrigation. Poor soils need to be fertilized heavily to reach the same production levels as high-quality soils.\u003C/p\u003E\u003Cp\u003EThe map shows the United States by land type and use. Less than 20% of land in the United States is high quality farmland.\u0026nbsp;The map shows the loss of farmland to development.\u0026nbsp;\u003C/p\u003E\u003Cp\u003EThe map shows high quality farmland with red and green shading. Some of these high quality farmlands have been developed for purposes other than farming (red shading).\u003C/p\u003E","is_hidden":false,"name":"","type":"Embeddable::Xhtml"},{"custom":false,"enable_check_answer":false,"give_prediction_feedback":false,"hint":"\u003Cdiv\u003EStep 1: Select a claim.\u003C/div\u003E\u003Cul\u003E\u003Cli\u003EA good claim is based on the evidence.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EEvidence may come from graphs and charts.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EEvidence may also come from models that you run.\u003C/li\u003E\u003C/ul\u003E","is_hidden":false,"is_prediction":false,"layout":"vertical","multi_answer":false,"name":"Multiple Choice Question element","prediction_feedback":"","prompt":"Look at the red shading on the map (high quality farmland and high development).\u0026nbsp;\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E\u003Cdiv\u003EIs there a risk to farmland in the United States from development?\u003C/div\u003E","show_as_menu":false,"choices":[{"choice":"yes","is_correct":false,"prompt":""},{"choice":"no","is_correct":false,"prompt":""}],"type":"Embeddable::MultipleChoice"},{"default_text":"","give_prediction_feedback":false,"hint":"\u003Cdiv\u003EStep 2: Write an explanation.\u003C/div\u003E\u003Cul\u003E\u003Cli\u003EA good explanation will cite specific evidence that backs up the claim.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EWhen there is a graph or table, you can cite evidence directly from the source.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EWhen there is a model, you can describe what happened in the model.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EA good explanation combines evidence with scientific knowledge.\u003C/li\u003E\u003C/ul\u003E","is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":"","prompt":"Explain your answer.","type":"Embeddable::OpenResponse"},{"custom":false,"enable_check_answer":false,"give_prediction_feedback":false,"hint":"\u003Cdiv\u003EStep 3: Select a certainty rating.\u003C/div\u003E\u003Cul\u003E\u003Cli\u003EPicking a certainty rating is a way to signal how certain you are with your claim.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EYour certainty rating can be based on how well the scientific knowledge fits the evidence from models, charts, or graphs.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EYour certainty rating can also reflect on the quality of the evidence or investigation that produced the evidence.\u003C/li\u003E\u003C/ul\u003E","is_hidden":false,"is_prediction":false,"layout":"vertical","multi_answer":false,"name":"Multiple Choice Question element","prediction_feedback":"","prompt":"How certain are you about your claim based on your explanation?","show_as_menu":true,"choices":[{"choice":"(1) Not at all certain","is_correct":false,"prompt":""},{"choice":"(2)","is_correct":false,"prompt":""},{"choice":"(3)","is_correct":false,"prompt":""},{"choice":"(4)","is_correct":false,"prompt":""},{"choice":"(5) Very certain","is_correct":false,"prompt":""}],"type":"Embeddable::MultipleChoice"},{"default_text":"","give_prediction_feedback":false,"hint":"\u003Cdiv\u003EStep 4: Write a certainty explanation.\u003C/div\u003E\u003Cul\u003E\u003Cli\u003EA good certainty explanation will explain why you are certain or uncertain about your response.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003ESome topics are more certain than others.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EConsider the completeness of the evidence, biases in the evidence, and changes that could affect the trends over time.\u003C/li\u003E\u003C/ul\u003E","is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":"","prompt":"Explain what influenced your certainty rating.","type":"Embeddable::OpenResponse"}],"sections":[{"name":"arg_block","section_embeddables":[]}]},{"additional_sections":null,"embeddable_display_mode":"stacked","is_completion":false,"is_hidden":false,"layout":"l-full-width","name":"Limited resources","position":7,"show_info_assessment":true,"show_interactive":true,"show_introduction":true,"show_sidebar":false,"sidebar":null,"sidebar_title":"Did you know?","text":"\n\n\u003Cp\u003EThe human population has increased greatly. The graph shows the population increase by continent.\u0026nbsp;\u003C/p\u003E\n\u003Cimg src=\"http://resources.has.concord.org/resources/land/g-pop-growth-chart-map-sm.gif\" title=\"\" alt=\"\"\u003E\u003Cdiv\u003E\n\u003Ca href=\"http://www.theglobaleducationproject.org\" target=\"_blank\"\u003E\u003Ci\u003E\u003Cfont size=\"-2\"\u003Ewww.theglobaleducationproject.org\u003C/font\u003E\u003C/i\u003E\u003C/a\u003E\u003Cbr\u003E\u003Cp\u003EHowever, the land that's suitable for agriculture hasn't grown. Increasingly, productive farmland is being turned into residential land.\u0026nbsp;Even so, food production has mostly kept pace with population growth. In some areas of the world, agricultural production has greatly exceeded population growth.\u003C/p\u003E\n\u003Cp\u003E\u003Cimg src=\"http://resources.has.concord.org/resources/land/WorldAgriculturalProductionPerCapita.png\" title=\"\" alt=\"\" style=\"width: 622px; height: 343px;\"\u003E\u003C/p\u003E\n\u003Cp\u003EChanges in farming practices have allowed the world's farmers to produce enough food to feed the growing population. Innovations in chemistry and biology, as well as careful management of the land, have brought us this far.\u0026nbsp;\u003Cbr\u003E\u003C/p\u003E\n\u003Cp\u003EBut will new innovations ensure that there will be enough food in the future?\u003C/p\u003E\n\u003C/div\u003E\n\n","interactives":[{"caption":"","credit":"Credit: United Nations (http://www.theglobaleducationproject.org/earth/human-conditions.php)","credit_url":null,"is_hidden":false,"url":"http://resources.has.concord.org/resources/land/g-pop-growth-chart-map-sm.gif","type":"ImageInteractive","ref_id":"2807-ImageInteractive"}],"embeddables":[{"custom":false,"enable_check_answer":false,"give_prediction_feedback":false,"hint":"\u003Cdiv\u003EStep 1: Select a claim.\u003C/div\u003E\u003Cul\u003E\u003Cli\u003EA good claim is based on the evidence.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EEvidence may come from graphs and charts.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EEvidence may also come from models that you run.\u003C/li\u003E\u003C/ul\u003E","is_hidden":false,"is_prediction":false,"layout":"vertical","multi_answer":false,"name":"Multiple Choice Question element","prediction_feedback":"","prompt":"Will there be enough food in the year 2050?\u003Cbr\u003E\u003Cdiv\u003E\u003Cbr\u003E\u003C/div\u003E","show_as_menu":false,"choices":[{"choice":"yes","is_correct":false,"prompt":""},{"choice":"no","is_correct":false,"prompt":""}],"type":"Embeddable::MultipleChoice"},{"default_text":"","give_prediction_feedback":false,"hint":"\u003Cdiv\u003EStep 2: Write an explanation.\u003C/div\u003E\u003Cul\u003E\u003Cli\u003EA good explanation will cite specific evidence that backs up the claim.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EWhen there is a graph or table, you can cite evidence directly from the source.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EWhen there is a model, you can describe what happened in the model.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EA good explanation combines evidence with scientific knowledge.\u003C/li\u003E\u003C/ul\u003E","is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":"","prompt":"Explain your answer.","type":"Embeddable::OpenResponse"},{"custom":false,"enable_check_answer":false,"give_prediction_feedback":false,"hint":"\u003Cdiv\u003EStep 3: Select a certainty rating.\u003C/div\u003E\u003Cul\u003E\u003Cli\u003EPicking a certainty rating is a way to signal how certain you are with your claim.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EYour certainty rating can be based on how well the scientific knowledge fits the evidence from models, charts, or graphs.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EYour certainty rating can also reflect on the quality of the evidence or investigation that produced the evidence.\u003C/li\u003E\u003C/ul\u003E","is_hidden":false,"is_prediction":false,"layout":"vertical","multi_answer":false,"name":"Multiple Choice Question element","prediction_feedback":"","prompt":"How certain are you about your claim based on your explanation?","show_as_menu":true,"choices":[{"choice":"(1) Not at all certain","is_correct":false,"prompt":""},{"choice":"(2)","is_correct":false,"prompt":""},{"choice":"(3)","is_correct":false,"prompt":""},{"choice":"(4)","is_correct":false,"prompt":""},{"choice":"(5) Very certain","is_correct":false,"prompt":""}],"type":"Embeddable::MultipleChoice"},{"default_text":"","give_prediction_feedback":false,"hint":"\u003Cdiv\u003EStep 4: Write a certainty explanation.\u003C/div\u003E\u003Cul\u003E\u003Cli\u003EA good certainty explanation will explain why you are certain or uncertain about your response.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003ESome topics are more certain than others.\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003EConsider the completeness of the evidence, biases in the evidence, and changes that could affect the trends over time.\u003C/li\u003E\u003C/ul\u003E","is_hidden":false,"is_prediction":false,"name":"","prediction_feedback":"","prompt":"Explain what influenced your certainty rating.","type":"Embeddable::OpenResponse"}],"sections":[{"name":"arg_block","section_embeddables":[]}]},{"additional_sections":{},"embeddable_display_mode":"stacked","is_completion":true,"is_hidden":false,"layout":"l-6040","name":"Summary","position":8,"show_info_assessment":false,"show_interactive":false,"show_introduction":false,"show_sidebar":false,"sidebar":null,"sidebar_title":"Did you know?","text":null,"interactives":[],"embeddables":[],"sections":[{"name":"arg_block","section_embeddables":[]}]}],"type":"LightweightActivity","export_site":"Lightweight Activities Runtime and Authoring"}
+{
+  "description": "\n<p>In this activity, you will explore data showing how humans have changed Earth’s land. Suitable agricultural land is a limited resource, and its distribution is affected by many factors, including human development and the availability of other limited resources.</p>\n<p><i><font size=\"-2\">Thumbnail credit: USDA, Economic Research Service</font></i></p>\n",
+  "editor_mode": 0,
+  "external_report_url": "",
+  "layout": 0,
+  "name": "Using the land",
+  "notes": "Credit for thumbnail image: USDA, Economic Research Service",
+  "project_id": 2,
+  "related": "<p><br></p>",
+  "thumbnail_url": "http://resources.has.concord.org/resources/land/datafeature2_fig01_1_.gif",
+  "time_to_complete": 45,
+  "theme_name": "HAS National Geographic: Land Management",
+  "pages": [
+    {
+      "additional_sections": null,
+      "embeddable_display_mode": "stacked",
+      "is_completion": false,
+      "is_hidden": false,
+      "layout": "r-4060",
+      "name": "Land use",
+      "position": 1,
+      "show_info_assessment": true,
+      "show_interactive": true,
+      "show_introduction": false,
+      "show_sidebar": false,
+      "sidebar": null,
+      "sidebar_title": "Did you know?",
+      "text": null,
+      "interactives": [
+        {
+          "caption": "",
+          "credit": "Ellis E et al. PNAS 2013; Used Planet, a Global History. Figure 1",
+          "credit_url": null,
+          "is_hidden": false,
+          "url": "http://resources.has.concord.org/resources/land/ellis_PNAS_fig_01_300_public.png",
+          "type": "ImageInteractive",
+          "ref_id": "2801-ImageInteractive"
+        }
+      ],
+      "embeddables": [
+        {
+          "content": "<p>Land use refers to the ways that humans use the land. Land use involves modifying and managing the natural environment.</p><p>The modifications include fields, pastures, industrial developments, residential developments, golf courses, ski areas, parks, and roads.</p><p>Land use management practices vary around the world. How the land is used can affect the quality and availability of natural resources, such as water, soil, nutrients, plants, and animals.&nbsp;</p><p>The maps show how humans have changed the land over the past 8,000 years.&nbsp;</p><p>The HYDE model assumes that land use is stable over time, while the KK10 model assumes that land use intensifies over time. Both models show the time of first significant use, the percent recovery from peak use, and the locations of dense settlements in the year 2000.</p>",
+          "is_hidden": false,
+          "name": "",
+          "type": "Embeddable::Xhtml"
+        },
+        {
+          "custom": false,
+          "enable_check_answer": false,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "layout": "vertical",
+          "multi_answer": false,
+          "name": "Multiple Choice Question element",
+          "prediction_feedback": null,
+          "prompt": "Which area of the world has been intensively used for the longest period of time?",
+          "show_as_menu": false,
+          "choices": [
+            {
+              "choice": "North America",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "South America",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "Africa",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "Eurasia",
+              "is_correct": false,
+              "prompt": ""
+            }
+          ],
+          "type": "Embeddable::MultipleChoice"
+        },
+        {
+          "default_text": null,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": null,
+          "prompt": "Explain your answer.",
+          "type": "Embeddable::OpenResponse"
+        }
+      ],
+      "sections": [
+        {
+          "name": "arg_block",
+          "section_embeddables": []
+        }
+      ]
+    },
+    {
+      "additional_sections": null,
+      "embeddable_display_mode": "stacked",
+      "is_completion": false,
+      "is_hidden": false,
+      "layout": "r-4060",
+      "name": "For what do we use the land?",
+      "position": 2,
+      "show_info_assessment": true,
+      "show_interactive": true,
+      "show_introduction": false,
+      "show_sidebar": false,
+      "sidebar": null,
+      "sidebar_title": "Did you know?",
+      "text": null,
+      "interactives": [
+        {
+          "caption": "A Northern Virginia housing development encroaches on farmland. Population growth and relocation is threatening rural environments across the world.",
+          "credit": "Photograph by Sarah Leen/National Geographic",
+          "credit_url": null,
+          "is_hidden": false,
+          "url": "http://resources.has.concord.org/resources/land/house-development_194_600x450.jpg",
+          "type": "ImageInteractive",
+          "ref_id": "2802-ImageInteractive"
+        }
+      ],
+      "embeddables": [
+        {
+          "content": "<p>Land is a finite resource on Earth. Around the world, people have tried to create more land by filling in shallow bodies of water, but in the end, there is only so much land.</p><p>What is that land used for?</p><p>There are human uses – land for living on, land for producing food, land for recreation – and there are natural users as well. Residents of the natural ecosystems need land for their own life cycles.</p><p>The photograph shows a housing development encroaching on farmland. Increasingly, farmland has been converted into residential and commercial purposes.&nbsp;</p>",
+          "is_hidden": false,
+          "name": "",
+          "type": "Embeddable::Xhtml"
+        },
+        {
+          "default_text": null,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": null,
+          "prompt": "Why do you think houses are being built on farmland?",
+          "type": "Embeddable::OpenResponse"
+        }
+      ],
+      "sections": [
+        {
+          "name": "arg_block",
+          "section_embeddables": []
+        }
+      ]
+    },
+    {
+      "additional_sections": null,
+      "embeddable_display_mode": "stacked",
+      "is_completion": false,
+      "is_hidden": false,
+      "layout": "r-4060",
+      "name": "Forested land",
+      "position": 3,
+      "show_info_assessment": true,
+      "show_interactive": true,
+      "show_introduction": false,
+      "show_sidebar": false,
+      "sidebar": null,
+      "sidebar_title": "Did you know?",
+      "text": null,
+      "interactives": [
+        {
+          "caption": "Nantahala National Forest, North Carolina",
+          "credit": "USDA Forest Service ",
+          "credit_url": null,
+          "is_hidden": false,
+          "url": "http://resources.has.concord.org/resources/land/stelprdb5284727.jpg",
+          "type": "ImageInteractive",
+          "ref_id": "2803-ImageInteractive"
+        }
+      ],
+      "embeddables": [
+        {
+          "content": "<p>Land can be managed in several different ways. Humans modify the land for their own purposes, but it is also important to consider the non-human users of the land – native plants and animals.</p><p>In addition to providing recreation opportunities, forests and other open parcels of land provide valuable services, including cleaning the air, filtering and holding water, producing oxygen, and storing carbon dioxide.</p><p>The photo shows Nantahala National Forest in North Carolina.</p>",
+          "is_hidden": false,
+          "name": "",
+          "type": "Embeddable::Xhtml"
+        },
+        {
+          "default_text": null,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": null,
+          "prompt": "What are the consequences of turning forested land into farm land?<div>List two positive and two negative effects of turning forest land into farm land.</div>",
+          "type": "Embeddable::OpenResponse"
+        },
+        {
+          "default_text": null,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": null,
+          "prompt": "What are the consequences of turning forested land into residential land?<div>List two positive and two negative effects of turning forest land into residential land.<br></div>",
+          "type": "Embeddable::OpenResponse"
+        }
+      ],
+      "sections": [
+        {
+          "name": "arg_block",
+          "section_embeddables": []
+        }
+      ]
+    },
+    {
+      "additional_sections": null,
+      "embeddable_display_mode": "stacked",
+      "is_completion": false,
+      "is_hidden": false,
+      "layout": "r-4060",
+      "name": "Land use changes in the US",
+      "position": 4,
+      "show_info_assessment": true,
+      "show_interactive": true,
+      "show_introduction": false,
+      "show_sidebar": false,
+      "sidebar": null,
+      "sidebar_title": "Did you know?",
+      "text": null,
+      "interactives": [
+        {
+          "caption": "Change in land use in the United States, 1949-2007",
+          "credit": "USDA, Economic Research Service",
+          "credit_url": null,
+          "is_hidden": false,
+          "url": "http://resources.has.concord.org/resources/land/datafeature2_fig01_1_.gif",
+          "type": "ImageInteractive",
+          "ref_id": "2804-ImageInteractive"
+        }
+      ],
+      "embeddables": [
+        {
+          "content": "<p></p><p>There are few habitats on Earth that have not been modified by humans. One very important land use is agriculture.&nbsp;</p><p>The graph shows land uses in the United States from 1949 to 2007.</p><p></p>",
+          "is_hidden": false,
+          "name": "",
+          "type": "Embeddable::Xhtml"
+        },
+        {
+          "default_text": null,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": null,
+          "prompt": "Describe the change in the amount of agricultural land in the United States from 1949 to 2007.",
+          "type": "Embeddable::OpenResponse"
+        },
+        {
+          "default_text": null,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": null,
+          "prompt": "Why do you think the land use changed this way?",
+          "type": "Embeddable::OpenResponse"
+        }
+      ],
+      "sections": [
+        {
+          "name": "arg_block",
+          "section_embeddables": []
+        }
+      ]
+    },
+    {
+      "additional_sections": null,
+      "embeddable_display_mode": "stacked",
+      "is_completion": false,
+      "is_hidden": false,
+      "layout": "r-4060",
+      "name": "Productive land",
+      "position": 5,
+      "show_info_assessment": true,
+      "show_interactive": true,
+      "show_introduction": false,
+      "show_sidebar": false,
+      "sidebar": null,
+      "sidebar_title": "Did you know?",
+      "text": null,
+      "interactives": [
+        {
+          "caption": "",
+          "credit": "Center for Sustainability and the Global Environment, University of Wisconsin, Madison",
+          "credit_url": null,
+          "is_hidden": false,
+          "url": "http://resources.has.concord.org/resources/land/atl_suit.jpg",
+          "type": "ImageInteractive",
+          "ref_id": "2805-ImageInteractive"
+        }
+      ],
+      "embeddables": [
+        {
+          "content": "<p>Sustainable agriculture needs:<br></p><p></p><ul><li>fertile soils<br></li><li>adequate precipitation<br></li><li>good growing temperatures<br></li></ul><div>The map shows the suitability of areas around the world for sustainable agriculture.&nbsp;</div>",
+          "is_hidden": false,
+          "name": "",
+          "type": "Embeddable::Xhtml"
+        },
+        {
+          "custom": false,
+          "enable_check_answer": false,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "layout": "vertical",
+          "multi_answer": false,
+          "name": "Multiple Choice Question element",
+          "prediction_feedback": null,
+          "prompt": "Is agricultural land evenly distributed around the world?",
+          "show_as_menu": false,
+          "choices": [
+            {
+              "choice": "yes",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "no",
+              "is_correct": false,
+              "prompt": ""
+            }
+          ],
+          "type": "Embeddable::MultipleChoice"
+        },
+        {
+          "default_text": null,
+          "give_prediction_feedback": false,
+          "hint": null,
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": null,
+          "prompt": "What areas of the world are most suitable for agriculture?",
+          "type": "Embeddable::OpenResponse"
+        }
+      ],
+      "sections": [
+        {
+          "name": "arg_block",
+          "section_embeddables": []
+        }
+      ]
+    },
+    {
+      "additional_sections": null,
+      "embeddable_display_mode": "stacked",
+      "is_completion": false,
+      "is_hidden": false,
+      "layout": "r-4060",
+      "name": "Farmland in the path of development",
+      "position": 6,
+      "show_info_assessment": true,
+      "show_interactive": true,
+      "show_introduction": false,
+      "show_sidebar": false,
+      "sidebar": null,
+      "sidebar_title": "Did you know?",
+      "text": null,
+      "interactives": [
+        {
+          "caption": "",
+          "credit": "American Farmland Trust",
+          "credit_url": null,
+          "is_hidden": false,
+          "url": "http://resources.has.concord.org/resources/land/map_national.gif",
+          "type": "ImageInteractive",
+          "ref_id": "2806-ImageInteractive"
+        }
+      ],
+      "embeddables": [
+        {
+          "content": "<p>All land is not equally useful for all purposes. It takes high quality soil conditions to make high quality farmland.&nbsp;</p><p>Some areas are too dry to farm without irrigation. Poor soils need to be fertilized heavily to reach the same production levels as high-quality soils.</p><p>The map shows the United States by land type and use. Less than 20% of land in the United States is high quality farmland.&nbsp;The map shows the loss of farmland to development.&nbsp;</p><p>The map shows high quality farmland with red and green shading. Some of these high quality farmlands have been developed for purposes other than farming (red shading).</p>",
+          "is_hidden": false,
+          "name": "",
+          "type": "Embeddable::Xhtml"
+        },
+        {
+          "custom": false,
+          "enable_check_answer": false,
+          "give_prediction_feedback": false,
+          "hint": "<div>Step 1: Select a claim.</div><ul><li>A good claim is based on the evidence.<br></li><li>Evidence may come from graphs and charts.<br></li><li>Evidence may also come from models that you run.</li></ul>",
+          "is_hidden": false,
+          "is_prediction": false,
+          "layout": "vertical",
+          "multi_answer": false,
+          "name": "Multiple Choice Question element",
+          "prediction_feedback": "",
+          "prompt": "Look at the red shading on the map (high quality farmland and high development).&nbsp;<div><br></div><div>Is there a risk to farmland in the United States from development?</div>",
+          "show_as_menu": false,
+          "choices": [
+            {
+              "choice": "yes",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "no",
+              "is_correct": false,
+              "prompt": ""
+            }
+          ],
+          "type": "Embeddable::MultipleChoice"
+        },
+        {
+          "default_text": "",
+          "give_prediction_feedback": false,
+          "hint": "<div>Step 2: Write an explanation.</div><ul><li>A good explanation will cite specific evidence that backs up the claim.<br></li><li>When there is a graph or table, you can cite evidence directly from the source.<br></li><li>When there is a model, you can describe what happened in the model.<br></li><li>A good explanation combines evidence with scientific knowledge.</li></ul>",
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": "",
+          "prompt": "Explain your answer.",
+          "type": "Embeddable::OpenResponse"
+        },
+        {
+          "custom": false,
+          "enable_check_answer": false,
+          "give_prediction_feedback": false,
+          "hint": "<div>Step 3: Select a certainty rating.</div><ul><li>Picking a certainty rating is a way to signal how certain you are with your claim.<br></li><li>Your certainty rating can be based on how well the scientific knowledge fits the evidence from models, charts, or graphs.<br></li><li>Your certainty rating can also reflect on the quality of the evidence or investigation that produced the evidence.</li></ul>",
+          "is_hidden": false,
+          "is_prediction": false,
+          "layout": "vertical",
+          "multi_answer": false,
+          "name": "Multiple Choice Question element",
+          "prediction_feedback": "",
+          "prompt": "How certain are you about your claim based on your explanation?",
+          "show_as_menu": true,
+          "choices": [
+            {
+              "choice": "(1) Not at all certain",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "(2)",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "(3)",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "(4)",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "(5) Very certain",
+              "is_correct": false,
+              "prompt": ""
+            }
+          ],
+          "type": "Embeddable::MultipleChoice"
+        },
+        {
+          "default_text": "",
+          "give_prediction_feedback": false,
+          "hint": "<div>Step 4: Write a certainty explanation.</div><ul><li>A good certainty explanation will explain why you are certain or uncertain about your response.<br></li><li>Some topics are more certain than others.<br></li><li>Consider the completeness of the evidence, biases in the evidence, and changes that could affect the trends over time.</li></ul>",
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": "",
+          "prompt": "Explain what influenced your certainty rating.",
+          "type": "Embeddable::OpenResponse"
+        }
+      ],
+      "sections": [
+        {
+          "name": "arg_block",
+          "section_embeddables": []
+        }
+      ]
+    },
+    {
+      "additional_sections": null,
+      "embeddable_display_mode": "stacked",
+      "is_completion": false,
+      "is_hidden": false,
+      "layout": "l-full-width",
+      "name": "Limited resources",
+      "position": 7,
+      "show_info_assessment": true,
+      "show_interactive": true,
+      "show_introduction": true,
+      "show_sidebar": false,
+      "sidebar": null,
+      "sidebar_title": "Did you know?",
+      "text": "\n\n<p>The human population has increased greatly. The graph shows the population increase by continent.&nbsp;</p>\n<img src=\"http://resources.has.concord.org/resources/land/g-pop-growth-chart-map-sm.gif\" title=\"\" alt=\"\"><div>\n<a href=\"http://www.theglobaleducationproject.org\" target=\"_blank\"><i><font size=\"-2\">www.theglobaleducationproject.org</font></i></a><br><p>However, the land that's suitable for agriculture hasn't grown. Increasingly, productive farmland is being turned into residential land.&nbsp;Even so, food production has mostly kept pace with population growth. In some areas of the world, agricultural production has greatly exceeded population growth.</p>\n<p><img src=\"http://resources.has.concord.org/resources/land/WorldAgriculturalProductionPerCapita.png\" title=\"\" alt=\"\" style=\"width: 622px; height: 343px;\"></p>\n<p>Changes in farming practices have allowed the world's farmers to produce enough food to feed the growing population. Innovations in chemistry and biology, as well as careful management of the land, have brought us this far.&nbsp;<br></p>\n<p>But will new innovations ensure that there will be enough food in the future?</p>\n</div>\n\n",
+      "interactives": [
+        {
+          "caption": "",
+          "credit": "Credit: United Nations (http://www.theglobaleducationproject.org/earth/human-conditions.php)",
+          "credit_url": null,
+          "is_hidden": false,
+          "url": "http://resources.has.concord.org/resources/land/g-pop-growth-chart-map-sm.gif",
+          "type": "ImageInteractive",
+          "ref_id": "2807-ImageInteractive"
+        }
+      ],
+      "embeddables": [
+        {
+          "custom": false,
+          "enable_check_answer": false,
+          "give_prediction_feedback": false,
+          "hint": "<div>Step 1: Select a claim.</div><ul><li>A good claim is based on the evidence.<br></li><li>Evidence may come from graphs and charts.<br></li><li>Evidence may also come from models that you run.</li></ul>",
+          "is_hidden": false,
+          "is_prediction": false,
+          "layout": "vertical",
+          "multi_answer": false,
+          "name": "Multiple Choice Question element",
+          "prediction_feedback": "",
+          "prompt": "Will there be enough food in the year 2050?<br><div><br></div>",
+          "show_as_menu": false,
+          "choices": [
+            {
+              "choice": "yes",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "no",
+              "is_correct": false,
+              "prompt": ""
+            }
+          ],
+          "type": "Embeddable::MultipleChoice"
+        },
+        {
+          "default_text": "",
+          "give_prediction_feedback": false,
+          "hint": "<div>Step 2: Write an explanation.</div><ul><li>A good explanation will cite specific evidence that backs up the claim.<br></li><li>When there is a graph or table, you can cite evidence directly from the source.<br></li><li>When there is a model, you can describe what happened in the model.<br></li><li>A good explanation combines evidence with scientific knowledge.</li></ul>",
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": "",
+          "prompt": "Explain your answer.",
+          "type": "Embeddable::OpenResponse"
+        },
+        {
+          "custom": false,
+          "enable_check_answer": false,
+          "give_prediction_feedback": false,
+          "hint": "<div>Step 3: Select a certainty rating.</div><ul><li>Picking a certainty rating is a way to signal how certain you are with your claim.<br></li><li>Your certainty rating can be based on how well the scientific knowledge fits the evidence from models, charts, or graphs.<br></li><li>Your certainty rating can also reflect on the quality of the evidence or investigation that produced the evidence.</li></ul>",
+          "is_hidden": false,
+          "is_prediction": false,
+          "layout": "vertical",
+          "multi_answer": false,
+          "name": "Multiple Choice Question element",
+          "prediction_feedback": "",
+          "prompt": "How certain are you about your claim based on your explanation?",
+          "show_as_menu": true,
+          "choices": [
+            {
+              "choice": "(1) Not at all certain",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "(2)",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "(3)",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "(4)",
+              "is_correct": false,
+              "prompt": ""
+            },
+            {
+              "choice": "(5) Very certain",
+              "is_correct": false,
+              "prompt": ""
+            }
+          ],
+          "type": "Embeddable::MultipleChoice"
+        },
+        {
+          "default_text": "",
+          "give_prediction_feedback": false,
+          "hint": "<div>Step 4: Write a certainty explanation.</div><ul><li>A good certainty explanation will explain why you are certain or uncertain about your response.<br></li><li>Some topics are more certain than others.<br></li><li>Consider the completeness of the evidence, biases in the evidence, and changes that could affect the trends over time.</li></ul>",
+          "is_hidden": false,
+          "is_prediction": false,
+          "name": "",
+          "prediction_feedback": "",
+          "prompt": "Explain what influenced your certainty rating.",
+          "type": "Embeddable::OpenResponse"
+        }
+      ],
+      "sections": [
+        {
+          "name": "arg_block",
+          "section_embeddables": []
+        }
+      ]
+    },
+    {
+      "additional_sections": {},
+      "embeddable_display_mode": "stacked",
+      "is_completion": true,
+      "is_hidden": false,
+      "layout": "l-6040",
+      "name": "Summary",
+      "position": 8,
+      "show_info_assessment": false,
+      "show_interactive": false,
+      "show_introduction": false,
+      "show_sidebar": false,
+      "sidebar": null,
+      "sidebar_title": "Did you know?",
+      "text": null,
+      "interactives": [],
+      "embeddables": [],
+      "sections": [
+        {
+          "name": "arg_block",
+          "section_embeddables": []
+        }
+      ]
+    }
+  ],
+  "type": "LightweightActivity",
+  "export_site": "Lightweight Activities Runtime and Authoring"
+}
