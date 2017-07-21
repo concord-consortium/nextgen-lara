@@ -43,7 +43,9 @@ class App extends Component {
 
     if(laraData == null) {
         return (
-            <button onClick={this.loadLaraData.bind(this)}>Load LARA data</button>
+            <div style={{align: 'top'}}>
+              <button onClick={this.loadLaraData.bind(this)}>Load LARA data</button>
+            </div>
         );
     }
 
