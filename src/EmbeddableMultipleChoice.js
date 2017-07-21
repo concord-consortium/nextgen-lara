@@ -6,7 +6,7 @@ class EmbeddableMultipleChoice extends Component {
         return (
             <div>
 
-                <span>{this.props.prompt}</span>
+                <span dangerouslySetInnerHTML={{__html: this.props.prompt}}></span>
 
                 <ul>
 
