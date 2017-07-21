@@ -1,18 +1,32 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import laraData from './data/interactions-within-the-atmosphere-version-1.json';
+import Page from './Page.js';
 
 class App extends Component {
+
   render() {
+    var pages = laraData.pages;
+
+    console.log("LARA data", laraData);
+    console.log("pages", pages);
+
     return (
       <div className="App">
         <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
+          <h2>Welcome to NextGen-LARA</h2>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <div className="navBar">
+          { Object.keys(pages).map(function (page, index) {
+            console.log('page: ', page); 
+            return (
+              <Page number={index} />
+              );
+          }, this)}
+        </div>
+        <div className="pageContent">
+          Page n content here?
+        </div>
       </div>
     );
   }

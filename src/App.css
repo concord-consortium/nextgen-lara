@@ -22,3 +22,13 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.navBar {
+  width:        100%;
+  text-align:   left;
+  padding:      4px;
+}
+
+.pageContent {
+
+}
