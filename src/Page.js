@@ -23,6 +23,17 @@ class Page extends Component {
                 );
             }
 
+            if(type == 'Embeddable::MultipleChoice') {
+                console.log("Create EmbeddableMultipleChoice");
+                return (
+                    <li className="left padding" key={index}>  
+                      <EmbeddableMultipleChoice 
+                        prompt={embeddable.prompt} 
+                        choices={embeddable.choices} />
+                    </li>
+                );
+            }
+
             return (
               <li className="left padding" key={index}>  
                 <span className="padding">
