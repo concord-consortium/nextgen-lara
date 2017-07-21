@@ -52,7 +52,7 @@ class EditorWrapper extends Component {
 
     return (
       <div>
-        <App input={input}/>
+        <App input={input} jsonFile={this.props.jsonFile} />
         <textarea cols={60} rows={20}
         // style="font-size: 18px;position: absolute;right: 0px;top: 0px;z-index: 100;visibility: visible;"
             style={{fontSize: 18, position: 'absolute',

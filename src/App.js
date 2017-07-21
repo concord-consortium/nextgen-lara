@@ -35,7 +35,7 @@ class App extends Component {
       return response.json();
     })
     .then(function(data) {
-      console.log("DATA", data);
+      console.log("App.js ajax DATA", data);
       console.log("_this", _this);
       _this.setState({ laraData: data });
     });
@@ -48,7 +48,15 @@ class App extends Component {
 
     console.log("render()", laraData);
 
+
     if(laraData == null) {
+
+        if(this.props.jsonFile != null) {
+            jsonUrl = "/" + this.props.jsonFile;
+            this.loadLaraData();
+            return null;
+        }
+
         return (
             <div style={{align: 'top'}}>
               <button onClick={this.loadLaraData}>Load LARA data</button>
