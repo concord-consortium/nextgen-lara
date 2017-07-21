@@ -54,19 +54,8 @@ class App extends Component {
 
     // ReactDOM.render(<App />, document.getElementById('root'));
 
-    var input = `
-    <div className="App">
-      <div className="App-header">
-        <Link to="/">
-          <h2>Welcome to NextGen-LARA</h2>
-        </Link>
-      </div>
-      <iframe src="http://concord.org"/>
-      <Pages pages={pages} />
-      <Route path='/pages/' component={Page} />
-    </div>
-    `
-    var output = Babel.transform(input, { presets: ['react'] }).code;
+
+    var output = Babel.transform(this.props.input, { presets: ['react'] }).code;
     output = "return " + output.trim();
     console.log(output);
     var obj = { React, Link, Pages, Route, Page, pages};
