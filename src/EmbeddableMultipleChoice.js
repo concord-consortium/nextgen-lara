@@ -16,10 +16,10 @@ class EmbeddableMultipleChoice extends Component {
                     var text = choice.choice;
 
                     return (
-                      <li>
+                      <div>
                           <input type="checkbox" />
                           <span>{text}</span>
-                      </li>
+                      </div>
                     );
 
                 }, this)}
