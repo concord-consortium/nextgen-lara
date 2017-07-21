@@ -27,6 +27,10 @@
   padding:      4px;
 }
 
+.left {
+  text-align:   left;
+}
+
 .pagesBar {
   width:        100%;
   text-align:   left;
