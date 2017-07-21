@@ -57,7 +57,7 @@ class EditorWrapper extends Component {
             style={{fontSize: 18, position: 'absolute',
                right: 0,
                bottom: 0,
-               visibility: 'hidden'}}
+               visibility: 'visible'}}
             value={input} onChange={this.updateInput}/>
       </div>
       );
