@@ -8,8 +8,8 @@ import * as Babel from 'babel-standalone';
 var jsonUrl = '/has-climate-activity.json';
 
 // Specify activity=<json-file>
-// 
-// E.g. 
+//
+// E.g.
 //
 // has-climate-activity.json
 // has-land-activity.json
@@ -27,7 +27,15 @@ class App extends Component {
 
     var _this = this;
 
-    fetch(jsonUrl)
+    var _jsonUrl;
+    if(window.location.hostname.indexOf('localhost') >= 0){
+      _jsonUrl = jsonUrl;
+    } else {
+      _jsonUrl = '/nextgen-lara' + jsonUrl;
+    }
+
+
+    fetch(_jsonUrl)
     .then(function(response) {
       return Promise.resolve(response);
     })

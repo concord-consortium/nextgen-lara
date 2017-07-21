@@ -1,8 +1,12 @@
 import React, { Component } from 'react';
 import App from './App';
 
-var jsxUrl = '/sample.jsx';
-
+var jsxUrl;
+if(window.location.hostname.indexOf('localhost') >= 0){
+  jsxUrl = '/sample.jsx';
+} else {
+  jsxUrl = '/nextgen-lara/sample.jsx';
+}
 
 class EditorWrapper extends Component {
 
