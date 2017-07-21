@@ -3,6 +3,7 @@ import { Link, Route } from 'react-router-dom'
 import './App.css';
 import Pages    from './Pages.js';
 import Page     from './Page.js';
+import * as Babel from 'babel-standalone';
 
 var jsonUrl = 'http://localhost:3000/interactions-within-the-atmosphere-version-1.json';
 
@@ -44,26 +45,36 @@ class App extends Component {
         return (
             <button onClick={this.loadLaraData.bind(this)}>Load LARA data</button>
         );
-    } 
+    }
 
     var pages = laraData.pages;
 
     console.log("LARA data", laraData);
     console.log("pages", pages);
 
-    return (
-      <div className="App">
-        <div className="App-header">
-          <Link to="/">
-            <h2>Welcome to NextGen-LARA</h2>
-          </Link>
-        </div>
-        <iframe src="http://concord.org"/>
-        <Pages pages={pages} />
-        <Route path='/pages/' component={Page} />
-      </div>
-    );
+    // ReactDOM.render(<App />, document.getElementById('root'));
 
+    var input = `
+    <div className="App">
+      <div className="App-header">
+        <Link to="/">
+          <h2>Welcome to NextGen-LARA</h2>
+        </Link>
+      </div>
+      <iframe src="http://concord.org"/>
+      <Pages pages={pages} />
+      <Route path='/pages/' component={Page} />
+    </div>
+    `
+    var output = Babel.transform(input, { presets: ['react'] }).code;
+    output = "return " + output.trim();
+    console.log(output);
+    var obj = { React, Link, Pages, Route, Page, pages};
+    var myFunct = new Function(...Object.keys(obj), output);
+    var template = myFunct(...Object.values(obj));
+    console.log(template);
+
+    return template;
   }
 
 }
