@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
+import { Link, Route } from 'react-router-dom'
 import './App.css';
 import laraData from './data/interactions-within-the-atmosphere-version-1.json';
-import Page from './Page.js';
+import Pages    from './Pages.js';
+import Page     from './Page.js';
 
 class App extends Component {
 
@@ -14,19 +16,12 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Welcome to NextGen-LARA</h2>
+          <Link to="/">
+            <h2>Welcome to NextGen-LARA</h2>
+          </Link>
         </div>
-        <div className="navBar">
-          { Object.keys(pages).map(function (page, index) {
-            console.log('page: ', page); 
-            return (
-              <Page number={index} />
-              );
-          }, this)}
-        </div>
-        <div className="pageContent">
-          Page n content here?
-        </div>
+        <Pages pages={pages} />
+        <Route path='/pages/' component={Page} />
       </div>
     );
   }

@@ -23,7 +23,11 @@
   to { transform: rotate(360deg); }
 }
 
-.navBar {
+.padding {
+  padding:      4px;
+}
+
+.pagesBar {
   width:        100%;
   text-align:   left;
   padding:      4px;
