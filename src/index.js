@@ -8,10 +8,11 @@ import registerServiceWorker from './registerServiceWorker';
 // ReactDOM.render(<App />, document.getElementById('root'));
 
 render((
+  <div>
   <BrowserRouter>
     <App />
   </BrowserRouter>
+  </div>
 ), document.getElementById('root'))
 
 registerServiceWorker();
-
