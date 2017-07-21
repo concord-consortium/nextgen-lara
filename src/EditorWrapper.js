@@ -1,25 +1,32 @@
 import React, { Component } from 'react';
 import App from './App';
 
+var jsxUrl = '/sample.jsx';
+
+
 class EditorWrapper extends Component {
 
   constructor(props) {
     super(props);
-    var input = `
-    <div className="App">
-      <div className="App-header">
-        <Link to="/">
-          <h2>Welcome to NextGen-LARA</h2>
-        </Link>
-      </div>
-      <iframe src="http://concord.org" width="100%" />
-      <Pages pages={pages} />
-      <Route path='/pages/' component={Page} />
-    </div>
-    `;
-    this.state = {
-      input
-    }
+    this.state = {input: null};
+  }
+
+  loadJSXData = () => {
+
+    var _this = this;
+
+    fetch(jsxUrl)
+    .then(function(response) {
+      return Promise.resolve(response);
+    })
+    .then(function(response) {
+      return response.text();
+    })
+    .then(function(text) {
+      console.log("DATA", text);
+      console.log("_this", _this);
+      _this.setState({ input: text });
+    });
   }
 
   updateInput = (event) => {
@@ -27,12 +34,28 @@ class EditorWrapper extends Component {
   }
 
   render() {
+    if(this.state.input == null) {
+        return (
+            <button onClick={this.loadJSXData}>Load JSX data</button>
+        );
+    }
+
+    var input = `
+    <div className="App">
+      Loading...
+    </div>
+    `;
+
+    if(this.state.input) {
+      input = this.state.input;
+    }
+
     return (
       <div>
-        <App input={this.state.input}/>
+        <App input={input}/>
         <textarea cols={80} rows={40}
             style={{fontSize: '18px'}}
-            value={this.state.input} onChange={this.updateInput}/>
+            value={input} onChange={this.updateInput}/>
       </div>
       );
   }
