@@ -6,7 +6,6 @@ import Page     from './Page.js';
 import * as Babel from 'babel-standalone';
 
 var jsonUrl = '/interactions-within-the-atmosphere-version-1.json';
-
 class App extends Component {
 
   constructor(props) {
@@ -50,6 +49,7 @@ class App extends Component {
     }
 
     var pages = laraData.pages;
+    var name = laraData.name;
 
     console.log("LARA data", laraData);
     console.log("pages", pages);
@@ -57,14 +57,27 @@ class App extends Component {
     // ReactDOM.render(<App />, document.getElementById('root'));
 
 
-    var output = Babel.transform(this.props.input, { presets: ['react'] }).code;
+    var output;
+    try {
+      output = Babel.transform(this.props.input, { presets: ['react'] }).code;
+      this.prevOutput = output;
+    } catch(e) {
+      console.log("Error in parsing");
+      output = this.prevOutput;
+    }
+
     output = "return " + output.trim();
     console.log(output);
-    var obj = { React, Link, Pages, Route, Page, pages};
-    var myFunct = new Function(...Object.keys(obj), output);
-    var template = myFunct(...Object.values(obj));
-    console.log(template);
-
+    var obj = { React, Link, Pages, Route, Page, pages, name};
+    var template;
+    try{
+      var myFunct = new Function(...Object.keys(obj), output);
+      template = myFunct(...Object.values(obj));
+      console.log(template);
+      this.prevTemplate = template;
+    } catch (e) {
+      template = this.prevTemplate;
+    }
     return template;
   }
 

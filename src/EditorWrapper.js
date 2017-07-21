@@ -53,8 +53,11 @@ class EditorWrapper extends Component {
     return (
       <div>
         <App input={input}/>
-        <textarea cols={80} rows={40}
-            style={{fontSize: '18px'}}
+        <textarea cols={60} rows={20}
+        // style="font-size: 18px;position: absolute;right: 0px;top: 0px;z-index: 100;visibility: visible;"
+            style={{fontSize: 18, position: 'absolute',
+               right: 0,
+               bottom: 0}}
             value={input} onChange={this.updateInput}/>
       </div>
       );
