@@ -5,7 +5,15 @@ import Pages    from './Pages.js';
 import Page     from './Page.js';
 import * as Babel from 'babel-standalone';
 
-var jsonUrl = '/interactions-within-the-atmosphere-version-1.json';
+var jsonUrl = '/has-climate-activity.json';
+
+// Specify activity=<json-file>
+// 
+// E.g. 
+//
+// has-climate-activity.json
+// has-land-activity.json
+
 class App extends Component {
 
   constructor(props) {
