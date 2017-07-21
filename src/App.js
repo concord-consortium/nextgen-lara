@@ -5,7 +5,7 @@ import Pages    from './Pages.js';
 import Page     from './Page.js';
 import * as Babel from 'babel-standalone';
 
-var jsonUrl = 'http://localhost:3000/interactions-within-the-atmosphere-version-1.json';
+var jsonUrl = '/interactions-within-the-atmosphere-version-1.json';
 
 class App extends Component {
 
@@ -16,7 +16,7 @@ class App extends Component {
     }
   }
 
-  loadLaraData() {
+  loadLaraData = () => {
 
     var _this = this;
 
@@ -43,7 +43,7 @@ class App extends Component {
 
     if(laraData == null) {
         return (
-            <button onClick={this.loadLaraData.bind(this)}>Load LARA data</button>
+            <button onClick={this.loadLaraData}>Load LARA data</button>
         );
     }
 
